@@ -12,5 +12,5 @@ Below is a list of my _technical skills **under development**_
 - GitHub
 
 ## Applications
-- Embedded Firmware devopment on 8/32 bit MCUs
+- Embedded Firmware development on 8/32 bit MCUs
 - Testing Embedded HW and FW
